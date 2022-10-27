@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<h1
+  className="flex justify-start mb-2 text-3xl font-bold text-gray-900"
+  onClick={[Function]}
+>
+  Policies
+</h1>
+`;
+
+exports[`Header renders correctly when clicked 1`] = `
+<h1
+  className="flex justify-start mb-2 text-3xl font-bold text-gray-900"
+  onClick={[Function]}
+>
+  Policies
+</h1>
+`;
